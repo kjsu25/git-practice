@@ -5,3 +5,5 @@ git rm -cached
 git commit -m
 git restore
 git log
+git config --global user.name "kjsu25"
+git config --global user.email "x@gmail.com"
